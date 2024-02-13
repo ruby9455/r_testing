@@ -1,0 +1,5 @@
+r-base
+r-cran-ggplot2
+r-cran-devtools
+r-cran-dplyr
+r-crab-glue
