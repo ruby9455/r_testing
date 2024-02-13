@@ -1,6 +1,6 @@
 r-base
 r-base-dev
 r-cran-ggplot2
-r-cran-devtools
+r-cran-remotes
 r-cran-dplyr
 r-cran-glue

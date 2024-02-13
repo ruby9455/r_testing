@@ -9,8 +9,8 @@ from io import BytesIO
 
 r_script = """
 result <- function() {
-library(devtools)
-devtools::install_github("tgerke/ggconsort")
+library(remotes)
+remotes::install_github("tgerke/ggconsort")
 library(ggconsort)
 library(dplyr)
 library(ggplot2)
