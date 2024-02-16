@@ -4,5 +4,3 @@ r-cran-ggplot2
 r-cran-remotes
 r-cran-dplyr
 r-cran-glue
-Remotes:
-  github::tgerke/ggconsort
