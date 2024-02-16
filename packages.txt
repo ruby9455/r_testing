@@ -5,3 +5,5 @@ r-cran-remotes
 r-cran-dplyr
 r-cran-glue
 r-cran-remotes::install_github("tgerke/ggconsort")
+Remotes:
+  github::tgerke/ggconsort
